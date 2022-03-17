@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.1",
+    "jest": "^27.4.3"
+  },
+  "name": "hw8-team-portfolio",
+  "description": "## Description - To learn how to utilize skills developed within OOP! - To be able to create HTML dynamically through an application based on user input. - It solved in understanding how to create methods while also modularizing information for overall cleaner code.  - I learned about OOP, constructor functions, setting up data to be more modularized, .then handlers for established data entires, and running/creating tests.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodgyd/HW8-Team-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodgyd/HW8-Team-Portfolio/issues"
+  },
+  "homepage": "https://github.com/nodgyd/HW8-Team-Portfolio#readme",
+  "devDependencies": {}
+}
